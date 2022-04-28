@@ -1,0 +1,43 @@
+a)
+aabbbb
+1   3       2       2
+a   | aa    | aabb  | aabbbb   
+aa  | aabb  | aabbb | aabbbb
+
+b)
+abbaba
+1   4       2
+a   | abba  | abbaba
+ab  | abb   | abbaba
+
+c) (abb, ab), (aba, ba), (aab,a bab)
+
+1   2       2           1               
+abb | abbaba| abbabaaba | abbabaabaabb  
+ab  | abba  | abbaba    | abbabaab      
+
+Como nenhuma peça da parte de baixo começa com aa, não temos solução
+
+d) 
+
+1   3       3           3
+ab  | ababa | ababaaba  | ababaabaaba
+aba | ababaa| ababaabaa | ababaabaabaa
+
+Como a peça 3 é a unica possivel para a sequencia ela sera a unica usada, mas a palavra nunca chegara ao fim pois sempre havera a diferença de 1 caracter entre a palavra 1 e a palavra 2. Logo a correspondencia não tem solução.
+sem solução
+
+e)
+
+aaab
+1   2
+a   | aaab
+aaa | aaab
+
+f) 
+
+3   4       3           1               4               4
+ab  | abbb  | abbbab    | abbbabab      | abbbababbb    | abbbababbbbb
+abb | abbbab| abbbababb | abbbababbbb   | abbbababbbbbab| abbbababbbbbabbab
+
+Como não tem nenhuma peça que seja menor do lado 2 do que do lado 1 a palavra 1 nunca chegara a um fim a partir desse ponto. Logo a correspondencia não tem solução.
