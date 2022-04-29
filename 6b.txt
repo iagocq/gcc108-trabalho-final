@@ -1,0 +1,1 @@
+A linguagem L w é recursiva, porque toda linguagem finita é recursiva. O complemento de L também é recursivo e claramente não contém w. Consequentemente, a propriedade de conter a string w é uma propriedade não trivial de linguagens recursivamente enumeráveis. Então, pelo Teorema de Rice, a questão de w estar em L(M) é indecidível.
