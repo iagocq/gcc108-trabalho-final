@@ -1,0 +1,4 @@
+As Maquinas de turing sao uma formalização de um procedimento efetivo, logo se uma função e computada por uma maquina de turing ela é efetivamente computavel.
+f é computavel por uma maquina de turing => f é efetivamente computavel
+A tese de Church-Turing diz Toda 'função naturalmente computavel' pode ser computada por uma maquina de turing, entao a tese faz a "volta" da primeira afirmação.
+f é computavel por uma maquina de turing <=> f é efetivamente computavel
