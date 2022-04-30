@@ -1,10 +1,18 @@
-# Trabalho Final GCC108
+# Trabalho Final - GCC108 2021/2
 Prof.: Douglas H. S. Abreu
 
-- O trabalho deve ser feito em grupos de no máximo 2 componentes
+Nomes:
+- Iago Manoel Brito de Sá Vaz da Silva
+- Vinicius Caputo de Castro
 
-- Trabalhos entregues após a data limite não serão aceitos
+Turma: 10A
 
-- Data limite de entrega: 29 de Abril de 2022 : 23h55m (não será aceito nenhum commit após a data)
+## Detalhes
 
-- Enviar o trabalho para o campus virtual, do seguinte modo: Notebook exportado em PDF contendo o código e também o link do repositório GitHub para acesso aos arquivos. A Documentação deve estar no readme
+- As respostas e códigos de questões estão presentes em [trabalho-final.ipynb](trabalho-final.ipynb)
+
+- A máquina de soma binária foi feita no JFLAP 7.1 e está presente no arquivo [soma.jff](soma.jff)
+
+- Imagens utilizadas no notebook estão em [Img](Img)
+
+- O tipo de CSV aceito pelo programa MTU é apenas um arquivo de texto com dois números separados por ;
